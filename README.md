@@ -21,7 +21,7 @@ O objetivo do projeto é estabelecer um estoque, registrando os produtos dentro 
 - Menu IndiceSecundario.c:
 1. Criar/Recriar arquivo de indice: Cria ou recria o arquivo de indices para consultas.
 2. Imprimir conteudo do indice: Imprime os indices presente no indice.bin
-3. Consultar produtos por sigla e disp: Consulta um produto pela sigla e por sua disponibilidade.
+3. Consultar produtos por sigla e disp: Consulta um produto pela sigla "RJ" e por sua disponibilidade "1".
 0. Sair.
 
 ## 🆘 Ajuda
