@@ -18,7 +18,7 @@ O objetivo do projeto é estabelecer um estoque, registrando os produtos dentro 
 3. Recriar arquivo: Recria o arq.bin, limpando todos os produtos antigos e zerando o estoque.
 0/ESQ. Sair.
 
--Menu IndiceSecundario.c:
+- Menu IndiceSecundario.c:
 1. Criar/Recriar arquivo de indice: Cria ou recria o arquivo de indices para consultas.
 2. Imprimir conteudo do indice: Imprime os indices presente no indice.bin
 3. Consultar produtos por sigla e disp: Consulta um produto pela sigla e por sua disponibilidade.
